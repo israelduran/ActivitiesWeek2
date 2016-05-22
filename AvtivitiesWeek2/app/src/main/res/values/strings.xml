@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AvtivitiesWeek2</string>
+    <string name="nombreCompleto">Nombre Completo: </string>
+    <string name="fechaNacimento">Fecha nacimiento: </string>
+    <string name="telefono">Teléfono: </string>
+    <string name="email">Email: </string>
+    <string name="descripcionContacto">Descripción Contacto: </string>
+    <string name="botonSiguiente">Siguiente</string>
+    <string name="botonEditar">Editar Datos</string>
+</resources>
